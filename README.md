@@ -33,6 +33,6 @@ brew services stop aria2
 ```
 
 ### 其余设置
-Aria2默认的配置文件在当前用户的aria2文件夹下，同时按下Shift-Command-G，前往`~/.aria2`目录后，编辑`aria2.conf`即可
+Aria2默认的配置文件在当前用户的 `.aria2` 文件夹下，同时按下Shift-Command-G，前往`~/.aria2`目录后，编辑`aria2.conf`即可
 
 
