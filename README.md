@@ -1,4 +1,4 @@
-# 将Aria2注册为Apple silicon芯片的Mac的启动服务
+# 将Aria2注册为搭载Apple silicon芯片的Mac的启动服务
 ## 介绍:
 如果你正在使用搭载 Apple Silicon (M1/M2) 的Mac，并且希望通过 Homebrew 来启动和停止 Aria2 服务, 本教程将指导你如何创建必要的文件让 Aria2 完美的工作在你的设备上
 
